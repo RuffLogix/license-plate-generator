@@ -42,7 +42,7 @@ downloadButton.addEventListener("click", () => {
     }
 
     link.href = image;
-    link.download = "image.png";
+    link.download = "generated-license-plate.png";
     link.click();
 });
 
