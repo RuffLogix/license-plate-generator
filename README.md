@@ -15,7 +15,7 @@ This project allows you to create your own Thai license plates based on (?) the 
 1. **Enter Details**: Provide the desired `text`, `number`, and select a `province`.
 2. **Generate Plate**: Click on `Download` to save your custom license plate image.
 
-**Warning**: The use of counterfeit or unauthorized license plates is illegal and may result in criminal charges. This tool is intended for entertainment purposes only.
+**⚠️ Warning**: The use of counterfeit or unauthorized license plates is illegal and may result in criminal charges. This tool is intended for entertainment purposes only.
 
 # Reference
 
